@@ -24,5 +24,13 @@ table th{
 }
 th,td{
     border-bottom: 1px solid gray;
+}
 
+label{
+    float: left;
+    width: 200px;
+}
+form{
+    width: 600px;
+    height: 200px;
 }
